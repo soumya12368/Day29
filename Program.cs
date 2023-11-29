@@ -21,7 +21,7 @@ namespace Assignment_23
 
             int energyLevel = 1;
             int winningProbability = 100;
-            int numberOfSpins = 10;
+            int numberOfSpins = 5;
 
             SpinDelegate spinDelegate = Spin;
 
